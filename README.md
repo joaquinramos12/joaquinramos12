@@ -1,6 +1,6 @@
 <div id="header" align="center">
  <img src="https://micarrerauniversitaria.com/wp-content/uploads/2018/02/ingenieria-de-telecomunicaciones-4.jpg" width="400" >
- <h1 align="center">Hi, I'm Joaquin Ramos Catari
+ <h1 align="center">Hi👋, I'm Joaquin Ramos Catari
  <h3 align="center">Telecommunications engineering student from Arequipa at the National University of San Agustin, passionate about programming and data science
  </div>
   
@@ -14,6 +14,6 @@
   
 ### About Me:
 
-- Future engineer
+- 📕Future engineer
 
-- How to reach me **jramoscat@unsa.edu.pe**
+- 📧How to reach me **jramoscat@unsa.edu.pe**
